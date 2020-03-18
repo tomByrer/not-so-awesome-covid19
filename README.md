@@ -1,6 +1,8 @@
 # awesome-awesome-covid19
 List of lists around the not-awesome 2019 novel Coronavirus
 
+## Researchers, Engeneers, and Hardware Hacker Resources & Requests:
+
 Long collection of projects that developers can join, plus other update aggregates.  
 [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus#awesome-coronavirus--)
 
