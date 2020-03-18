@@ -4,6 +4,12 @@ List of lists around the not-awesome 2019 novel Coronavirus
 Long collection of projects that developers can join, plus other update aggregates.  
 [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus#awesome-coronavirus--)
 
+"collection of Open Source projects during COVID-19"  
+[Open-Source-COVID-19](http://open-source-covid-19.weileizeng.com/)
+
+"COVID-19 projects looking for volunteers" (both Open Source Software & hardware/medical supplies)  
+[helpwithcovid.com](https://helpwithcovid.com/)
+
 "data science, analytics and computer programming resources for COVID-19"  
 [fnielsen/awesome-covid-19-resources](https://github.com/fnielsen/awesome-covid-19-resources#awesome-covid-19-resources)
 
