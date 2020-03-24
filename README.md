@@ -15,6 +15,9 @@ Long collection of projects that developers can join, plus other update aggregat
 "data science, analytics and computer programming resources for COVID-19"  
 [fnielsen/awesome-covid-19-resources](https://github.com/fnielsen/awesome-covid-19-resources#awesome-covid-19-resources)
 
+listing "Datasets and models", with many x-rays archives
+[defeatcovid19/awesome-covid19-resources](https://github.com/defeatcovid19/awesome-covid19-resources)
+
 No-news "coronavirus related materials for working scientists".  
 [ThomasThelen/awesome-coronavirus](https://github.com/ThomasThelen/awesome-coronavirus)
 
