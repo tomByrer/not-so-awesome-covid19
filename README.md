@@ -34,6 +34,12 @@ Spend time wisely:
 "No trackers, maps or news about the virus"  Varied resources!   
 [adamdriscoll/awesome-covid19-resources](https://github.com/adamdriscoll/awesome-covid19-resources#awesome-list-of-covid19-response-resources-)
 
+## Debate
+
+Always sluth for yourself, & try to go to source as much as possible.
+
+[12 Experts Questioning the Coronavirus Panic](https://off-guardian.org/2020/03/24/12-experts-questioning-the-coronavirus-panic/)
+
 ## Contributing
 
 Feel free to add your list ty [editing the README](https://www.boldgrid.com/support/wordpress-tutorials/commit-a-file-change-on-github/), using my format above: (linebreak, description, **2 spaces**, linebreak, `[repo path or link name](full URL)`
