@@ -47,3 +47,9 @@ Feel free to add your list ty [editing the README](https://www.boldgrid.com/supp
 ## License
 
 [CC0 1.0 Universal (CC0 1.0)](https://creativecommons.org/publicdomain/zero/1.0/) Public Domain Dedication
+
+## Also by Author
+
+curated list of awesome articles & code for Cloudflare Workers  
+(Hosting used by some sites & APIs, such as [The COVID Tracking Project](https://covidtracking.com/data/)
+[tomByrer/awesome-cloudflare-workers](https://github.com/tomByrer/awesome-cloudflare-workers#awesome-cloudflare-workers)
