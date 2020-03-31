@@ -51,5 +51,5 @@ Feel free to add your list ty [editing the README](https://www.boldgrid.com/supp
 ## Also by Author
 
 curated list of awesome articles & code for Cloudflare Workers  
-(Hosting used by some sites & APIs, such as [The COVID Tracking Project](https://covidtracking.com/data/)
+(Hosting used by some sites & APIs, such as [The COVID Tracking Project](https://covidtracking.com/data/)  
 [tomByrer/awesome-cloudflare-workers](https://github.com/tomByrer/awesome-cloudflare-workers#awesome-cloudflare-workers)
