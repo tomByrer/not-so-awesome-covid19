@@ -24,6 +24,9 @@ No-news "coronavirus related materials for working scientists".
 Shorter listing of Volunteering / Capabilities efforts.  
 [jbn/COVID-19#covid-19-projects](https://github.com/jbn/COVID-19#covid-19-projects)
 
+Data collected by major US newspaper  
+[nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
+
 ## Staying at Home?
 
 Spend time wisely:
