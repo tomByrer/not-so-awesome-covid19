@@ -1,7 +1,11 @@
-# awesome-awesome-covid19
+# Not-So-Awesome-COVID19
+
+Please star for visablity to others, & watch for updates (upper-right corner buttons).
+
+## awesome-awesome-covid19
 List of lists around the not-awesome 2019 novel Coronavirus
 
-## Researchers, Engeneers, and Hardware Hacker Resources & Requests:
+### Researchers, Engeneers, and Hardware Hacker Resources & Requests:
 
 Long collection of projects that developers can join, plus other update aggregates.  
 [soroushchehresa/awesome-coronavirus](https://github.com/soroushchehresa/awesome-coronavirus#awesome-coronavirus--)
@@ -27,7 +31,12 @@ Shorter listing of Volunteering / Capabilities efforts.
 Data collected by major US newspaper  
 [nytimes/covid-19-data](https://github.com/nytimes/covid-19-data)
 
-## Staying at Home?
+### Vendors - Manufacturers
+
+[SARS-CoV-2 antibody testing KB: Twitter Thread](https://twitter.com/COVID19Tracking/status/1245753532780810253)  
+[Airtable](https://airtable.com/shrGVEvpWp12RyLAI/tbl4Odk31um8HYSND/viw6ZTA41rEgliH5O?blocks=hide)
+
+### Staying at Home?
 
 Spend time wisely:
 
@@ -36,6 +45,10 @@ Spend time wisely:
 
 "No trackers, maps or news about the virus"  Varied resources!   
 [adamdriscoll/awesome-covid19-resources](https://github.com/adamdriscoll/awesome-covid19-resources#awesome-list-of-covid19-response-resources-)
+
+## Volenteer
+
+
 
 ## Debate
 
