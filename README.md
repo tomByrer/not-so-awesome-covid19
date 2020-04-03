@@ -1,6 +1,6 @@
 # Not-So-Awesome-COVID19
 
-Please star for visablity to others, & watch for updates (upper-right corner buttons).
+Please star for visiblity to others, & watch for updates (upper-right corner buttons).
 
 ## awesome-awesome-covid19
 List of lists around the not-awesome 2019 novel Coronavirus
