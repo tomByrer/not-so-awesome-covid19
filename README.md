@@ -36,6 +36,7 @@ Data collected by major US newspaper
 [SARS-CoV-2 antibody testing KB: Twitter Thread](https://twitter.com/COVID19Tracking/status/1245753532780810253)  
 [Airtable](https://airtable.com/shrGVEvpWp12RyLAI/tbl4Odk31um8HYSND/viw6ZTA41rEgliH5O?blocks=hide)
 
+
 ### Staying at Home?
 
 Spend time wisely:
@@ -46,15 +47,16 @@ Spend time wisely:
 "No trackers, maps or news about the virus"  Varied resources!   
 [adamdriscoll/awesome-covid19-resources](https://github.com/adamdriscoll/awesome-covid19-resources#awesome-list-of-covid19-response-resources-)
 
-## Volenteer
 
-
-
-## Debate
+## Prespectives
 
 Always sluth for yourself, & try to go to source as much as possible.
 
+Quotes from many field experts  
 [12 Experts Questioning the Coronavirus Panic](https://off-guardian.org/2020/03/24/12-experts-questioning-the-coronavirus-panic/)
+
+Dr. Eugene K. Choi: "FEAR of the Coronavirus is deadlier than the virus itself"  
+[[COVID-19] One Important Recommendation You May Not be Hearing](https://medium.com/the-mission/why-coronavirus-should-be-the-least-of-your-worries-d6ed6abe75bc)
 
 ## Contributing
 
