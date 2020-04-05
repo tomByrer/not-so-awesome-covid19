@@ -37,15 +37,12 @@ Data collected by major US newspaper
 [Airtable](https://airtable.com/shrGVEvpWp12RyLAI/tbl4Odk31um8HYSND/viw6ZTA41rEgliH5O?blocks=hide)
 
 
-### Staying at Home?
+## Statistics
 
-Spend time wisely:
+### USA
 
-"free resources to help children learn while at home" & adults also ;)  
-[scovetta/awesome-coronavirus-home-school](https://github.com/scovetta/awesome-coronavirus-home-school)
-
-"No trackers, maps or news about the virus"  Varied resources!   
-[adamdriscoll/awesome-covid19-resources](https://github.com/adamdriscoll/awesome-covid19-resources#awesome-list-of-covid19-response-resources-)
+[@COVID19Tracking](https://twitter.com/COVID19Tracking) scrapes states' websites then hand-verifies data, flagging where they think there are inaccuracies.  [API](https://covidtracking.com/api) is available.  
+[The COVID Tracking Project](https://covidtracking.com/)
 
 
 ## Prespectives
@@ -57,6 +54,19 @@ Quotes from many field experts
 
 Dr. Eugene K. Choi: "FEAR of the Coronavirus is deadlier than the virus itself"  
 [[COVID-19] One Important Recommendation You May Not be Hearing](https://medium.com/the-mission/why-coronavirus-should-be-the-least-of-your-worries-d6ed6abe75bc)
+
+
+
+### Staying at Home?
+
+Spend time wisely:
+
+"free resources to help children learn while at home" & adults also ;)  
+[scovetta/awesome-coronavirus-home-school](https://github.com/scovetta/awesome-coronavirus-home-school)
+
+"No trackers, maps or news about the virus"  Varied resources!   
+[adamdriscoll/awesome-covid19-resources](https://github.com/adamdriscoll/awesome-covid19-resources#awesome-list-of-covid19-response-resources-)
+
 
 ## Contributing
 
