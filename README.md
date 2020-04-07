@@ -36,6 +36,17 @@ Data collected by major US newspaper
 [SARS-CoV-2 antibody testing KB: Twitter Thread](https://twitter.com/COVID19Tracking/status/1245753532780810253)  
 [Airtable](https://airtable.com/shrGVEvpWp12RyLAI/tbl4Odk31um8HYSND/viw6ZTA41rEgliH5O?blocks=hide)
 
+### Web Development
+
+#### Google's web.dev tips
+
+Great checklist touching upon all topics  
+[Ensure your website is available and usable ](https://web.dev/covid19/)
+
+Accessibility (A11y) tips for web developers ~ so help is avaiable to **everyone**  
+[Accessibility tips for web developers](https://web.dev/a11y-tips-for-web-dev/)
+
+
 
 ## Statistics
 
