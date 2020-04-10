@@ -55,6 +55,10 @@ Accessibility (A11y) tips for web developers ~ so help is avaiable to **everyone
 [@COVID19Tracking](https://twitter.com/COVID19Tracking) scrapes states' websites then hand-verifies data, flagging where they think there are inaccuracies.  [API](https://covidtracking.com/api) is available.  
 [The COVID Tracking Project](https://covidtracking.com/)
 
+### Belgium
+[Epistat](https://epistat.wiv-isp.be) monitors all relevant data regarding confirmed cases, hospitalisations, number of performed tests and mortality. [Interactive dashboard](https://epistat.wiv-isp.be/covid/covid-19.html) and [Data CSV/JSON](https://epistat.wiv-isp.be/Covid/) 
+
+
 
 ## Prespectives
 
