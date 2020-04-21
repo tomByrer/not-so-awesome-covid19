@@ -68,6 +68,9 @@ Help save local resturaunts.
 
 Always sluth for yourself, & try to go to source as much as possible.
 
+'Stanford researchers calculated 2.5-4.2% of the county’s residents were infected as of early April. [so] Covid-19 is drastically more widespread than local swab testing suggests: 50-85x,.. consequently lowers the disease’s estimated fatality rate, driving it from ~1% to just 0.12-0.2%... death rate from the flu is about 0.1%.'  
+https://www.wired.com/story/new-covid-19-antibody-study-results-are-in-are-they-right/
+
 Quotes from many field experts  
 [12 Experts Questioning the Coronavirus Panic](https://off-guardian.org/2020/03/24/12-experts-questioning-the-coronavirus-panic/)
 
