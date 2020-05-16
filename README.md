@@ -77,6 +77,7 @@ Quotes from many field experts
 Dr. Eugene K. Choi: "FEAR of the Coronavirus is deadlier than the virus itself"  
 [[COVID-19] One Important Recommendation You May Not be Hearing](https://medium.com/the-mission/why-coronavirus-should-be-the-least-of-your-worries-d6ed6abe75bc)
 
+The [answer](https://politics.stackexchange.com/a/52862) to the question [What kind of project[s] did the US finance at the Wuhan BSL-4 lab?](https://politics.stackexchange.com/q/52861) includes links to the primary sources [Discovery of a rich gene pool of bat SARS-related coronaviruses provides new insights into the origin of SARS coronavirus](https://journals.plos.org/plospathogens/article?id=10.1371/journal.ppat.1006698) and [UNDERSTANDING THE RISK OF BAT CORONAVIRUS EMERGENCE](https://taggs.hhs.gov/Detail/AwardDetail?arg_AwardNum=R01AI110964&arg_ProgOfficeCode=104)
 
 
 ### Staying at Home?
