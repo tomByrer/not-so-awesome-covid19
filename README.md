@@ -54,6 +54,8 @@ Help save local resturaunts.
 
 ## Statistics
 
+[API & tools listing](https://rapidapi.com/blog/developers-respond-to-covid-19/) RapidAPI blog listing many open APIs and articles to make dashboards.
+
 ### USA
 
 [@COVID19Tracking](https://twitter.com/COVID19Tracking) scrapes states' websites then hand-verifies data, flagging where they think there are inaccuracies.  [API](https://covidtracking.com/api) is available.  
