@@ -65,6 +65,10 @@ Help save local resturaunts.
 [Epistat](https://epistat.wiv-isp.be) monitors all relevant data regarding confirmed cases, hospitalisations, number of performed tests and mortality. [Interactive dashboard](https://epistat.wiv-isp.be/covid/covid-19.html) and [Data CSV/JSON](https://epistat.wiv-isp.be/Covid/) 
 
 
+## Charts
+
+Pivots of data, via maps, charts, tables, etc.
+
 
 ## Prespectives
 
