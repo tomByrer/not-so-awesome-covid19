@@ -69,6 +69,10 @@ Help save local resturaunts.
 
 Pivots of data, via maps, charts, tables, etc.
 
+[Tableau: Change over time USA](https://public.tableau.com/profile/peter.james.walker#!/vizhome/Coronavirus-ChangeovertimeintheUSA/0_Home) by COVID19Tracking's [Peter Walker](https://twitter.com/PeterJ_Walker), good regions and hospitalization pivots.  
+[Tableau: US COVID-19 Trends over Time](https://public.tableau.com/profile/ckelly2528#!/vizhome/COVIDDashboard-Public/NationalOverview) and by state & county, by COVID19Tracking's [Conor Kelly](https://twitter.com/CohoKelly).  
+[mSightly US charts](https://www.msightly.com/covid-19/index.php#us) looking at direct numbers & economic impact.
+
 
 ## Prespectives
 
